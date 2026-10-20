@@ -1,7 +1,6 @@
 # Personalización del sitio
-- **Tema activo:** (nombre y versión)
-- **Por qué lo elegí:**
-- **Plugin instalado:** (nombre, versión, última actualización, nº de
-instalaciones)
-- **Por qué lo necesito:**
-- **Estructura de contenidos:** (páginas, categorías, menú)
+- **Tema activo:** Astra versión 4.14.1
+- **Por qué lo elegí:** Porque me gustaba su apariencia
+- **Plugin instalado:** Contact Form 7 versión 6.2.2. Última actualización hace 1 semana. 10+ millones de instalaciones
+- **Por qué lo necesito:** Para añadir un formulario de contacto en la página Contacto
+- **Estructura de contenidos:** Inicio, Sobre el proyecto con una subpágina llamada Tecnologías y otra página de Contacto
