@@ -2,12 +2,12 @@
 
 | Prueba | Resultado | ¿Correcto? |
 |---|---|---|
-| Servicios en marcha |db |ngix |wordpress
-| Sitio y panel |Ambos se pueden entrar y se ve el tema
-| Subida de ficheros |Varias imagenes subidas sin errores
-| Enlaces permanentes |Cargan todos los enlaces de las entradas sin errores
-| Persistencia (down/up) |El contenido sigue ahí
-| Seguridad (403) |Da el resultado esperado
+| Servicios en marcha |db ngix wordpress |Si
+| Sitio y panel |Ambos se pueden entrar y se ve el tema |Si
+| Subida de ficheros |Varias imagenes subidas sin errores |Si
+| Enlaces permanentes |Cargan todos los enlaces de las entradas sin errores |Si
+| Persistencia (down/up) |El contenido sigue ahí |Si
+| Seguridad (403) |Da el resultado esperado |Si
 
 
 ## Rendimiento
