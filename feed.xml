@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ra2-wordpress</title>
+	<atom:link href="http://localhost:8080/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8080</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Nov 2026 15:41:37 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
+	<item>
+		<title>Entrada profe.redes</title>
+		<link>http://localhost:8080/entrada-profe-redes/</link>
+					<comments>http://localhost:8080/entrada-profe-redes/#respond</comments>
+		
+		<dc:creator><![CDATA[Profe de Redes]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 15:41:37 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=67</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://localhost:8080/entrada-profe-redes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mi primera semana en prácticas</title>
+		<link>http://localhost:8080/mi-primera-semana-en-practicas/</link>
+					<comments>http://localhost:8080/mi-primera-semana-en-practicas/#respond</comments>
+		
+		<dc:creator><![CDATA[Alumna en prácticas]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 15:40:22 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=65</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://localhost:8080/mi-primera-semana-en-practicas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hackathon de ciberseguridad</title>
+		<link>http://localhost:8080/hackathon-ciberseguridad/</link>
+					<comments>http://localhost:8080/hackathon-ciberseguridad/#respond</comments>
+		
+		<dc:creator><![CDATA[Profe de Redes]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Redes]]></category>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=106</guid>
+
+					<description><![CDATA[Abrimos inscripciones para el hackathon de ciberseguridad entre centros de la Comunitat Valenciana. Equipos de tres personas, con retos de redes, sistemas y aplicaciones web.]]></description>
+		
+					<wfw:commentRss>http://localhost:8080/hackathon-ciberseguridad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Empresas colaboradoras para la formación en empresa</title>
+		<link>http://localhost:8080/empresas-fct-2027/</link>
+					<comments>http://localhost:8080/empresas-fct-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[Coordinación web]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[FCT]]></category>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=105</guid>
+
+					<description><![CDATA[Publicamos la lista provisional de empresas que acogerán alumnado de segundo curso durante el periodo de formación en empresa. Las entrevistas empezarán en febrero.]]></description>
+		
+					<wfw:commentRss>http://localhost:8080/empresas-fct-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Personalizar WordPress</title>
+		<link>http://localhost:8080/personalizar-wordpress/</link>
+					<comments>http://localhost:8080/personalizar-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[michael]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:20:04 +0000</pubDate>
+				<category><![CDATA[Tutoriales]]></category>
+		<guid isPermaLink="false">http://localhost:8080/?p=38</guid>
+
+					<description><![CDATA[WordPress permite personalizar un sitio mediante temas, plugins, páginas y entradas. También podemos ajustar su configuración para adaptarla a nuestras necesidades.]]></description>
+		
+					<wfw:commentRss>http://localhost:8080/personalizar-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
